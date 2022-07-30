@@ -1,0 +1,16 @@
+IIC.c:11:6:SCL_Delay	24	static,ignoring_inline_asm
+IIC.c:19:6:IIC_Init	8	static
+IIC.c:26:6:IIC_Start	8	static
+IIC.c:37:6:IIC_Stop	8	static
+IIC.c:50:9:IIC_Wait_Ack	16	static
+IIC.c:71:6:IIC_Ack	8	static
+IIC.c:82:6:IIC_NAck	8	static
+IIC.c:96:6:IIC_Send_Byte	24	static
+IIC.c:113:9:IIC_Read_Byte	32	static
+IIC.c:134:6:IIC_SCL	16	static
+IIC.c:142:6:IIC_SDA	16	static
+IIC.c:149:9:READ_SDA	8	static
+IIC.c:154:6:IIC_Write_One_Byte	24	static
+IIC.c:167:6:IIC_Read_One_Byte	16	static
+IIC.c:181:6:IIC_WriteBytes	32	static
+IIC.c:196:6:IIC_ReadBytes	32	static
